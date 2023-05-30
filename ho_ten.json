@@ -1,0 +1,25 @@
+{
+    "fullnames": [
+        "Trần Đình Nhật",
+        "Phan Việt Bằng",
+        "Hồ Sỹ Phú",
+        "Lại Xuân Hùng"
+    ],
+    "birth_day": [
+        "18/09/2007",
+        "20/03/2007",
+        "18/08/2007",
+        "2/2/2007",
+        "10/11/2007"
+    ],
+    "hometown": [
+        "Hậu Thành, Yên Thành",
+        "Mã Thành, Yên Thành",
+        "Tiến Thành, Yên Thành"
+    ],
+    "ten": [
+        "A",
+        "B",
+        "C"
+    ]
+}
