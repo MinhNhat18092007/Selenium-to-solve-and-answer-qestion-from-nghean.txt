@@ -17,7 +17,7 @@ If you have a great idea, do let me know!<br>
 6. stem
 
 ## Usage
-python recaptcha_solver.py<br>
+python testapi.py<br>
 
 ## Updates
 [23 Sept 21] Auto detection of recaptcha. With this functionality, this script may work for other pages. <br>
